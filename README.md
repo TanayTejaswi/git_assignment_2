@@ -4,7 +4,7 @@
 
 Name: Tanay Tejaswi
 Roll No: 2024BCS-078
-Course: Software Engineering
+Course: SE
 Semester: 4th
 
 
