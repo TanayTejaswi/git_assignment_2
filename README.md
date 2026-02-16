@@ -9,3 +9,5 @@ Semester: 4th
 
 
 NAITIK IS GOD
+
+GOD IS NAITIK?
